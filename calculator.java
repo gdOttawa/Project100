@@ -1,3 +1,6 @@
+
+/* This is a demo for a simple Calculator. re-testing.*/
+
 import java.util.Scanner;
 
  public class calculator
