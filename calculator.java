@@ -1,5 +1,5 @@
-
-/* This is a demo for a simple Calculator. re-testing.*/
+ 
+/* I'm writing new documentation statment to rest this out */
 
 import java.util.Scanner;
 
